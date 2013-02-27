@@ -14,6 +14,10 @@ public class PruebaGood {
 		System.out.println("asdfas");
 	}
 	
+	public void nuevoCambio(){
+		System.out.println("Nuevooo cambiooo hecho ahoraaa");
+	}
+	
 	public static void main(String args[]){
 		new PruebaGood().di();
 	}
