@@ -6,4 +6,8 @@ public class PruebaGood {
 		System.out.println("Nuevo cambio");
 	}
 	
+	public void di(){
+		System.out.println("Hubo otro cambio!!");
+	}
+	
 }
