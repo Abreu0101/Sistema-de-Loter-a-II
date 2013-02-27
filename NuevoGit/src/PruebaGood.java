@@ -14,4 +14,8 @@ public class PruebaGood {
 		System.out.println("asdfas");
 	}
 	
+	public static void main(String args[]){
+		new PruebaGood().di();
+	}
+	
 }
