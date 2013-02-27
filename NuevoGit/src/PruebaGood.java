@@ -10,4 +10,8 @@ public class PruebaGood {
 		System.out.println("Hubo otro cambio!!");
 	}
 	
+	public void ss(){
+		System.out.println("asdfas");
+	}
+	
 }
