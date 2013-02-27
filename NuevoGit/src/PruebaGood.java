@@ -12,6 +12,7 @@ public class PruebaGood {
 	
 	public void ss(){
 		System.out.println("asdfas");
+		System.out.println("npi");
 	}
 	
 	
