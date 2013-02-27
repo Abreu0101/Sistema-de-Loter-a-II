@@ -15,7 +15,7 @@ public class PruebaGood {
 	}
 	
 	public void nuevoCambio(){
-		System.out.println("Nuevooo cambiooo hecho ahoraaa");
+		System.out.println("Nuevooo cambiooo hecho ahoraaa, lalalallalalla");
 	}
 	
 	public static void main(String args[]){
